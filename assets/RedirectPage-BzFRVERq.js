@@ -1,1 +1,0 @@
-import{d as n,u as r,s as u,p as c,i,c as m,a as p}from"./index-ChONLvXT.js";import{u as d}from"./title-B0mAHwLg.js";const R=n({__name:"RedirectPage",setup(h){d("Redirecting...");const e=i(),t=r(),{user:s,isAuthenticated:o}=u(t);c(()=>{a()});const a=()=>{s.value&&o?e.push({name:"home"}):e.push({name:"auth.login"})};return(l,_)=>(p(),m("div"))}});export{R as default};
