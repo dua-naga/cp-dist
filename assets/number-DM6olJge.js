@@ -1,0 +1,1 @@
+const u=()=>({convertToInteger:e=>{const r=e.match(/\d+/);return r?Number.parseInt(r[0],10):Number.NaN},formatNumber:(e=0,r=!1,t=0,n=6)=>{const o={style:r?"currency":"decimal",currency:r?"IDR":void 0,minimumFractionDigits:t,maximumFractionDigits:n};return new Intl.NumberFormat("id-ID",o).format(e)}});export{u};
