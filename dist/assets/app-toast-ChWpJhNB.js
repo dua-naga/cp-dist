@@ -1,1 +1,0 @@
-import{aW as r}from"./index-b0lzFBaC.js";const c=()=>{const t=r();return{toastSuccess:s=>{t.add({severity:"success",summary:s,life:3e3})},toastError:s=>{t.add({severity:"error",summary:s,life:3e3})}}};export{c as u};
