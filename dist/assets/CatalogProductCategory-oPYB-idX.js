@@ -1,0 +1,1 @@
+var e=Object.defineProperty;var s=(t,o,r)=>o in t?e(t,o,{enumerable:!0,configurable:!0,writable:!0,value:r}):t[o]=r;var a=(t,o,r)=>s(t,typeof o!="symbol"?o+"":o,r);import{A as c}from"./Api-BTyaGELh.js";class g extends c{constructor(){super(...arguments);a(this,"resource","customer-portal/product-categories")}}const C=new g;export{C};
