@@ -1,0 +1,1 @@
+import{g as t}from"./index-Bx4W_xK3.js";const u=()=>{const n=t([]),s=t(null),e=t(null),o=t(null),l=t(!1),c=t(!1),a=t(!1);return{entities:n,selected:s,meta:e,links:o,loading:l,refetch:c,notFound:a}};export{u};

@@ -1,0 +1,1 @@
+import{_ as n}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as t,a as c,b as s}from"./index-Bx4W_xK3.js";const i={},o={class:"flex w-full justify-center py-8"};function r(a,e){return c(),t("div",o,e[0]||(e[0]=[s("div",{class:"text-surface-600 inline-flex animate-spin select-none"},[s("i",{class:"pi pi-spinner"})],-1)]))}const f=n(i,[["render",r]]);export{f as A};
